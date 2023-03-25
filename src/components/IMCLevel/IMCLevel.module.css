@@ -1,0 +1,47 @@
+.main {
+    flex: 1;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    color: #fff;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+
+    padding: 10px;
+
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin-top: 5px;
+
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.info {
+    margin-top: 14px;
+
+    font-size: 12px;
+}
+
+.yourImc {
+    margin: 10px 0px 50px 0px;
+    font-size: 17px;
+}
+
